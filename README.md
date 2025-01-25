@@ -1,5 +1,5 @@
 # Interactive QA Bot Interface for Financial Data
-This project provides an interactive QA bot that allows users to upload financial documents (e.g., Profit & Loss statements in PDF format) and query the data to receive structured, financial insights. The bot leverages advanced language models for analyzing documents and generating accurate, context-aware responses.
+This project provides an interactive QA bot that allows users to upload financial documents (e.g., Profit & Loss statements in PDF format) and query the data to receive structured, financial insights. The bot leverages advanced language models for analyzing documents and generating accurate, context-aware responses. Click [here](https://financial-app-bot-jlp2i6dzrbhvhktwz4esez.streamlit.app/) to use the bot.
 
 ## Features
 - Upload and process financial documents: Upload PDF documents containing Profit & Loss statements.
