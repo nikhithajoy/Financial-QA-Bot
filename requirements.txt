@@ -1,0 +1,10 @@
+streamlit
+pinecone-client
+pinecone-text
+pinecone-notebooks
+langchain-community
+langchain-huggingface
+pdfplumber
+sentence-transformers
+google-generativeai
+llama_parse
